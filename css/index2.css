@@ -1,0 +1,191 @@
+.contenedor{
+    width: 428px;
+    height: 926px;
+    background: rgb(243, 240, 235);
+    display: flex;
+    position: relative;
+}
+/*imagen*/
+.Imagen{
+    width: 50rem;
+    height: 50rem;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/* no recuerdo que era*/
+.cuadro{
+    width: 428px;
+    height: 416px;
+    background-color: rgb(243, 240, 235);
+    border-radius : 50px;
+    position: absolute;
+    left: 2px;
+    top: 510px;
+}
+/*flechita*/
+.cuadritos{
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: rgb(243, 240, 235);
+    border-radius: 12px;
+    box-shadow: 5px 4px 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    position: absolute;
+    top: 2rem;
+    left: 1.6rem;
+}
+.flecha{
+    cursor: pointer;
+    position: absolute;
+    left: 0.5rem;
+    top: 0.5rem;
+}
+/*informationnn*/
+.info1{
+    font-size: 2rem;
+    position: absolute;
+    top: 35rem;
+    left: 2rem;
+}
+.info2{
+    font-size: 23px;
+    color: rgb(136, 145, 142);
+    position: absolute;
+    top: 37.1rem;
+    left: 4rem;
+}
+.estrella{
+    position: absolute;
+    top: 37rem;
+    left: 2.3rem;
+}
+.info3{
+    font-size: 20px;
+    color: rgb(136, 145, 142);
+    position: absolute;
+    top: 35.5rem;
+    left: 21.5rem;
+}
+.info4{
+    font-size: 30px;
+    position: absolute;
+    top: 37.5rem;
+    left: 22.1rem;
+}
+.dolar{
+    color: rgb(255, 136, 0);
+    font-size: 30px;
+    position: absolute;
+    top: 37.5rem;
+    left: 21.2rem;
+}
+.tabla1{
+    margin: 1.9rem;
+    margin-top: 1rem;
+    font-size: 21px;
+    color: rgb(136, 145, 142);
+
+    position: absolute;
+    top: 5rem;
+}
+/*cuadritos de informacion*/
+.cuadritod1{
+    height: 4.5rem;
+    width: 4.5rem;
+    background-color: rgb(243, 240, 235);
+    box-shadow: 5px 4px 10px rgba(0.9, 1, 1, 0.3);
+    border-radius: 5px;
+
+    position: absolute;
+    top: 48rem;
+    left: 1.7rem;
+}
+.titu{
+    font-size: 19px;
+    position: absolute;
+    top: 0.7rem;
+    left: 0.6rem;
+}
+.titu1{
+    font-size: 24px;
+    position: absolute;
+    top: 3rem;
+    left: 1.8rem;
+}
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.cuadritod2{
+    height: 4.5rem;
+    width: 4.5rem;
+    background-color: rgb(243, 240, 235);
+    box-shadow: 5px 4px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+
+
+    position: absolute;
+    top: 48rem;
+    left: 8.1rem;
+}
+.titu2{
+    font-size: 19px;
+    position: absolute;
+    top: 0.7rem;
+    left: 0.6rem;
+}
+.titu3{
+    font-size: 25px;
+    position: absolute;
+    top: 3rem;
+    left: 1.8rem;
+}
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.cuadritod3{
+    height: 4.5rem;
+    width: 4.5rem;
+    background-color: rgb(243, 240, 235);
+    box-shadow: 5px 4px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+
+
+    position: absolute;
+    top: 48rem;
+    left: 14.3rem;
+}
+.titu4{
+    font-size: 19px;
+    position: absolute;
+    top: 0.7rem;
+    left: 0.6rem;
+}
+.titu5{
+    font-size: 24px;
+    position: absolute;
+    top: 3rem;
+    left: 1.8rem;
+}
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.cuadritod4{
+    height: 4.5rem;
+    width: 4.5rem;
+    background-color: rgb(243, 240, 235);
+    box-shadow: 5px 4px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+
+
+    position: absolute;
+    top: 48rem;
+    left: 20.3rem;
+}
+.titu6{
+    font-size: 19px;
+    position: absolute;
+    top: 0.7rem;
+    left: 0.6rem;
+}
+.titu7{
+    font-size: 24px;
+    position: absolute;
+    top: 3rem;
+    left: 1.8rem;
+}
