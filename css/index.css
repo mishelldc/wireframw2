@@ -1,0 +1,220 @@
+.contenedor{
+    height: 50rem;
+    width: 50rem;
+    background-color: antiquewhite;
+    width: 24.3rem;
+    /*height: 52.7rem;
+    background-color: rgb(243, 240, 235);
+    display: flex;
+    position: relative;*/
+
+}
+.cajita{
+    width: 24.3rem;
+/*     height: 52.7rem; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 4rem;
+}
+
+/*menu con rayitas y el don*/
+.rayitas{
+    cursor: pointer;
+    justify-content: center;
+
+}
+.señor{
+    cursor: pointer;
+    justify-content: center;
+
+}
+
+/*destino question*/
+.yo{
+    font-size: 2rem;
+    position: absolute;
+    top: 3rem;
+    left: 1.8rem;
+}
+
+/*coso de icono y busqueda*/
+ .busque{
+    width: 16rem;
+    height: 2.6rem;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 146px;
+    left: 20px;
+    box-shadow: 5px 4px 10px rgba(14, 1, 1, 0.45);
+    border-radius: 10px;
+}
+.busqueda{
+    font-size: 1rem;
+    color: rgb(136, 145, 142);
+    position: absolute;
+    left: 1rem;
+    top: 0.6rem;
+}
+.busqueda1{
+    width: 2.7rem;
+    height: 2.6rem;
+    background-color: #FF7A1A;
+    position: absolute;
+    top: 9.1rem;
+    left: 19rem;
+    border-radius: 5px;
+    box-shadow: 5px 4px 10px rgba(0, 0, 0, 0.2);
+}
+.busqueda2{
+    
+    position: absolute;
+    left: 0.3rem;
+    top: 0.2rem;
+}
+
+/*  los cuadritos  */
+.cuadritos{
+    cursor: pointer;
+    width: 4rem;
+    height: 4rem;
+    background: #fd7515;
+    position: absolute;
+    top: 16rem;
+    left: 1.6rem;
+    border-radius: 5px;
+    box-shadow: 5px 4px 10px rgba(241, 167, 5, 0.5);
+}
+.plane{
+    width: 20em;
+    height: 20rem;
+    position: absolute;
+    top: 16%;
+    left: 25%;
+}
+.plane1{
+    font-size: 13px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 68%;
+    left: 30%;
+}
+/*+++++++++++++++++++*/
+.cuadritos1{
+    cursor: pointer;
+    width: 4rem;
+    height: 4rem;
+    background: #9e86e0;
+    position: absolute;
+    top: 16rem;
+    left: 7.4rem;
+    border-radius: 5px;
+    box-shadow: 5px 4px 10px rgba(237, 179, 255, 0.5);
+}
+.hotel{
+    width: 20em;
+    height: 20rem;
+    position: absolute;
+    top: 0;
+    left: 25%;
+}
+.hotel1{
+    font-size: 13px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 70%;
+    left: 30%;
+}
+
+/*+++++++++++++++++++*/
+.cuadritos2{
+    cursor: pointer;
+    width: 4rem;
+    height: 4rem;
+    background: #ee8b44;
+    position: absolute;
+    top: 16rem;
+    left: 13rem;
+    border-radius: 5px;
+    box-shadow: 5px 4px 10px rgba(241, 167, 5, 0.5);
+}
+.comida{
+    width: 20em;
+    height: 20rem;
+    position: absolute;
+    top: 0.3rem;
+    left: 25%;
+}
+.comida1{
+    font-size: 13px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 70%;
+    left: 30%;
+}
+
+/*+++++++++++++++++*/
+.cuadritos3{
+    cursor: pointer;
+    width: 4rem;
+    height: 4rem;
+    background: #8c84f7;
+    position: absolute;
+    top: 16rem;
+    left: 18.3rem;
+    border-radius: 5px;
+    box-shadow: 5px 4px 10px rgba(179, 184, 255, 0.5);
+}
+.event{
+    width: 20em;
+    height: 20rem;
+    position: absolute;
+    top: 0.3rem;
+    left: 22%;
+}
+.event1{
+    font-size: 13px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 70%;
+    left: 30%;
+}
+
+/*names de los cuadritos*/
+.ttl1{
+    width: 4rem;
+    height: 1rem;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 21rem;
+    left: 2rem;
+    border-radius: 5px;
+}
+.ttl2{
+    width: 4rem;
+    height: 1rem;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 21rem;
+    left: 7.4rem;
+    border-radius: 5px;
+}
+.ttl3{
+    width: 4rem;
+    height: 1rem;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 21rem;
+    left: 13rem;
+    border-radius: 5px;
+}
+.ttl4{
+    width: 4rem;
+    height: 1rem;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 21rem;
+    left: 18.3rem;
+    border-radius: 5px;
+}
